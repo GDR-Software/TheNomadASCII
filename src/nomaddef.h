@@ -4,7 +4,7 @@
 // standard ranges, doesn't apply to everything
 #define RNG_CLOSE			10
 #define RNG_MID				30
-#define RNG_LONG				45
+#define RNG_LONG			45
 #define RNG_ULTRA			60
 
 #define WMAP_NORTHWEST		1
