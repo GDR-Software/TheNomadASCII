@@ -39,13 +39,4 @@
 #define MINERAL_DEPO		'π'
 #define TEMPLE				'Ω'
 
-typedef enum
-{
-	noob = 1.3, // can ya shoot straight lad? or are ya fuckin' blind?
-	recruit = 3.7, // baby steps
-	mercenary = 6.19, // medium shit
-	nomad = 10.5, // game's pretty hard
-	blackdeath = 20.12, // they're asking for it
-} defaultmults_t;
-
 #endif
