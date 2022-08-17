@@ -53,3 +53,21 @@ void Mob::returnM_hp(int mIndex)
 	tempMob->T_mobHP = &mhp;
 	return;
 }
+
+void Mob::returnM_wpn(int mIndex)
+{
+	std::string mwpn = mWpn[mIndex];
+	int mwpn_dmg = 0;
+	int mwpn_rng = 0;
+	tempMob->T_mobWpn_name = &mwpn;
+	for (int i = 0; i < mobGear->wpn_ls.size(); i++)
+	{
+		if (mobGear->wpn_ls[i] == mwpn)
+		{
+			mwpn_dmg = mobGear->wpn_dmg[i];
+			mwpn_rng = mobGear->wpn_rng[i];
+		}
+	}
+	tempMob->T_mobWpn_dmg = &mwpn_dmg;
+	tempMob->T_mobWpn_rng = &mwpn_rng;
+}
