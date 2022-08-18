@@ -12,3 +12,8 @@ I'll be updating this game constantly. But thanks anyway for checking it out or 
 
 Your Resident Fiend,
 SIGAAMDAD
+
+## About the Game Engine (SACE)
+There is currently a branch apart from main called "SACE", that is where I have committed the very much incomplete engine. So now for the _About the Game Engine_ part. SACE stands for SIGAAMDAD's ASCII Console Engine: S.A.C.E
+
+Now the engine is nowhere near complete, and I advise you don't even look at it right now. And all the information I have for right now is that until the ASCII engine is completed, I will be doing all that hard shit myself in this game's source code. So Until Then...
