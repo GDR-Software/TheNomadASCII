@@ -17,3 +17,6 @@ SIGAAMDAD
 There is currently a branch apart from main called "SACE", that is where I have committed the very much incomplete engine. So now for the _About the Game Engine_ part. SACE stands for SIGAAMDAD's ASCII Console Engine: S.A.C.E
 
 Now the engine is nowhere near complete, and I advise you don't even look at it right now. And all the information I have for right now is that until the ASCII engine is completed, I will be doing all that hard shit myself in this game's source code. So Until Then...
+
+## Co-op
+Co-op is a feature found in many video games to this day, mainly shooters. And it will also be a feature in this game, but that won't be implemented until I find a way to have it not break the terminal and break the program as a whole. But in the near future, there might be another separate branch or folder for the co-op mode. The co-op will be 2 players max until I can get more creative with utilizing the entire keyboard.
